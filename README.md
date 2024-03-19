@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Endpoint Management
 - 📫 How to reach me, you can reach me on LinkedIn(https://www.linkedin.com/in/marc-roland-embudo/) and here on Github
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I like coffee, play guitar, collects Gundam model kits, plays Pokemon(main series games) and Resident Evil
+- ⚡ Fun fact: I like coffee, play guitars, likes Jrock/Jpop music, collects Gundam model kits, plays Pokemon(main series games) and Resident Evil
 
 <!---
 marc019-ph/marc019-ph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
